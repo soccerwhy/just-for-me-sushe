@@ -133,6 +133,13 @@ public class PersonNewController {
 
     }
 
+    @GetMapping("qinshi-fenpei")
+    public void qinshifenpei(HttpServletRequest request,HttpServletResponse response)
+            throws ServletException, IOException {
+        request.getRequestDispatcher("qinshi-fenpei.jsp").forward(request,response);
+
+    }
+
 
 
     @GetMapping("volunteer-list")

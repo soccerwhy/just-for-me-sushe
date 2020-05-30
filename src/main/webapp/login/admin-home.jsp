@@ -82,6 +82,7 @@
                     <ul class="kid">
                         <li><a target="Conframe" href=" <%=basePath %>/person_New/add-volunteers">添加学生信息</a></li>
                         <li><a target="Conframe" href=" <%=basePath %>/person_New/volunteer-list">查询学生信息</a></li>
+                        <li><a target="Conframe" href=" <%=basePath %>/person_New/qinshi-fenpei">学生寝室分配</a></li>
                     </ul>
                 </div>
                 <div align="center">
