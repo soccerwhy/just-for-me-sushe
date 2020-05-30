@@ -16,6 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.List;
 
+//for test push trigger
 @Controller
 @RequestMapping("/activity-admin")
 public class ActivityAdminController {
