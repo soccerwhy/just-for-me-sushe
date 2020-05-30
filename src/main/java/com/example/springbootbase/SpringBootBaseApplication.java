@@ -1,12 +1,9 @@
 package com.example.springbootbase;
 
-import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.sql.*;
-import java.util.Scanner;
-import java.util.logging.Logger;
+import java.sql.SQLException;
 
 @SpringBootApplication
 public class SpringBootBaseApplication {
