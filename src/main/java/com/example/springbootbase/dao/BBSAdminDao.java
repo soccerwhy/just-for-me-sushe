@@ -5,6 +5,7 @@ import org.apache.ibatis.annotations.*;
 
 import java.util.List;
 //lalala
+//hfkyf
 @Mapper
 public interface BBSAdminDao {
 
