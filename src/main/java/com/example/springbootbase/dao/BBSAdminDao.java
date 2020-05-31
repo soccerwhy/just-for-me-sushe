@@ -4,7 +4,7 @@ import com.example.springbootbase.model.BBS;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;
-
+//lalala
 @Mapper
 public interface BBSAdminDao {
 
